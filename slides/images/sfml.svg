@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="488.19983mm"
+   height="219.08937mm"
+   viewBox="0 0 1729.8419 776.30092"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sfml.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4760"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#a90022;fill-opacity:1;fill-rule:evenodd;stroke:#a90022;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4762"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4714"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4716"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#a90022;fill-opacity:1;fill-rule:evenodd;stroke:#a90022;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4662"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#a90022;fill-opacity:1;fill-rule:evenodd;stroke:#a90022;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4664"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4634"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#a90022;fill-opacity:1;fill-rule:evenodd;stroke:#a90022;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4636"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4612"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#0006a9;fill-opacity:1;fill-rule:evenodd;stroke:#0006a9;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4614"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4400"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#a90022;fill-opacity:1;fill-rule:evenodd;stroke:#a90022;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="890.91001"
+     inkscape:cy="386.73747"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="-6"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.1352646,-5.6403258)">
+    <rect
+       style="fill:#f9fafa;fill-opacity:1;stroke:#080050;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4248"
+       width="1270"
+       height="765.71429"
+       x="11.428572"
+       y="10.933633"
+       ry="11.184" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="21.277777"
+       y="54.175591"
+       id="text4136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="21.277777"
+         y="54.175591"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#1d0082;fill-opacity:1"
+   id="tspan4172">class</tspan> Population[T](<tspan
+   style="font-weight:bold;fill:#82007a;fill-opacity:1"
+   id="tspan4190">val</tspan> chromosomes: List[T], ...) {</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="104.17559"
+         id="tspan4140"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#82007a;fill-opacity:1"
+   id="tspan4174">  def</tspan> select(score: Chromosome[T] =&gt; Unit, ...</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="154.1756"
+         id="tspan4142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#82007a;fill-opacity:1"
+   id="tspan4176">  def</tspan> +- (xOver: Double)</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="204.1756"
+         id="tspan4144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#82007a;fill-opacity:1"
+   id="tspan4178">  def</tspan> ^ (mu: Double)</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="254.1756"
+         id="tspan4146"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">  ...</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="304.1756"
+         id="tspan4148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">}</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="354.1756"
+         id="tspan4150"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="404.1756"
+         id="tspan4152"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="454.1756"
+         id="tspan4154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#1d0082;fill-opacity:1"
+   id="tspan4186">class</tspan> Chromosome[T](<tspan
+   style="font-weight:bold;fill:#82007a;fill-opacity:1"
+   id="tspan4188">val</tspan> code: List[T]) {</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="504.1756"
+         id="tspan4156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#82007a;fill-opacity:1"
+   id="tspan4180">  var</tspan> unfitness: Double = ...</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="554.1756"
+         id="tspan4158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#82007a;fill-opacity:1"
+   id="tspan4182">  def</tspan> +- (that: Chromosome[T], idx: GeneticIndices):</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="604.1756"
+         id="tspan4170"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">    (Chromosome[T], Chromosome[T])</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="654.1756"
+         id="tspan4164"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#82007a;fill-opacity:1"
+   id="tspan4184">  def</tspan> ^ (idx: GeneticIndices): Chromosome[T]</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="704.1756"
+         id="tspan4166"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">  ...</tspan><tspan
+         sodipodi:role="line"
+         x="21.277777"
+         y="754.1756"
+         id="tspan4168"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="784.88855"
+       y="131.10307"
+       id="text4160"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4162"
+         x="784.88855"
+         y="131.10307"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1515.0739"
+       y="258.07651"
+       id="text4250"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4252"
+         x="1515.0739"
+         y="258.07651"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle">&quot;Use meaningfull names</tspan><tspan
+         sodipodi:role="line"
+         x="1515.0739"
+         y="298.07651"
+         id="tspan4254"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle">for identifiers&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="1515.0739"
+         y="338.07651"
+         id="tspan4256"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle">- any teacher during</tspan><tspan
+         sodipodi:role="line"
+         x="1515.0739"
+         y="378.07651"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle"
+         id="tspan7454">Programming I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1477.1228"
+       y="82.862206"
+       id="text4250-2"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="1477.1228"
+         y="82.862206"
+         id="tspan4256-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle">Scoring function</tspan><tspan
+         sodipodi:role="line"
+         x="1477.1228"
+         y="122.86221"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle"
+         id="tspan4287">returning <tspan
+   style="font-weight:bold"
+   id="tspan4289">Unit</tspan>?</tspan><tspan
+         sodipodi:role="line"
+         x="1477.1228"
+         y="154.56221"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle"
+         id="tspan4320">(hiddden global state)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1520.4059"
+       y="499.50507"
+       id="text4291"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4293"
+         x="1520.4059"
+         y="499.50507"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle">Dualize everything!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1480.6292"
+       y="620.93359"
+       id="text4295"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4297"
+         x="1480.6292"
+         y="620.93359"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle">Chromosomes aware</tspan><tspan
+         sodipodi:role="line"
+         x="1480.6292"
+         y="660.93359"
+         id="tspan4299"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle">of nternal gene</tspan><tspan
+         sodipodi:role="line"
+         x="1480.6292"
+         y="700.93359"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle"
+         id="tspan7460">representation</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a90022;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4662)"
+       d="m 1315.7143,110.93363 -421.42859,8.57143"
+       id="path4322"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a90022;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4760);marker-end:url(#DotM)"
+       d="M 605.71429,143.79078 1311.4286,292.3622 307.14286,225.21935"
+       id="path4324"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0006a9;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4612)"
+       d="m 1307.1429,479.50506 -645.71433,0"
+       id="path4328"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a90022;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4714);marker-end:url(#marker4634)"
+       d="M 1178.5714,565.21935 1300,648.07649 660,673.79078"
+       id="path4330"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>

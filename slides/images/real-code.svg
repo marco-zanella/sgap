@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1030.7227"
+   height="571.35999"
+   viewBox="0 0 1030.7226 571.35997"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="real-code.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4642"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#4415a3;fill-opacity:1;fill-rule:evenodd;stroke:#4415a3;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4644"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4620"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#4415a3;fill-opacity:1;fill-rule:evenodd;stroke:#4415a3;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4622"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4408"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#4415a3;fill-opacity:1;fill-rule:evenodd;stroke:#4415a3;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-9"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4408-3"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#4415a3;fill-opacity:1;fill-rule:evenodd;stroke:#4415a3;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-99"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4408-5"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#4415a3;fill-opacity:1;fill-rule:evenodd;stroke:#4415a3;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4642-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#4415a3;fill-opacity:1;fill-rule:evenodd;stroke:#4415a3;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4644-0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4642-94"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#4415a3;fill-opacity:1;fill-rule:evenodd;stroke:#4415a3;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4644-9" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="488.20213"
+     inkscape:cy="267.9357"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="-6"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-bottom="1"
+     fit-margin-right="1"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(316.39723,-22.714705)">
+    <rect
+       style="fill:#f1f4f5;fill-opacity:1;stroke:#101455;stroke-width:2.62221527;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4316"
+       width="637.94696"
+       height="502.62662"
+       x="-314.08618"
+       y="89.136948"
+       ry="11.183981" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.3085804px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#1b1a66;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="212.26382"
+       y="41.189705"
+       id="text3336"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="212.26382"
+         y="41.189705"
+         id="tspan3340"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;fill:#1b1a66;fill-opacity:1">I have a Kapsack/TSP class, want to deploy GAs, and have</tspan><tspan
+         sodipodi:role="line"
+         x="212.26382"
+         y="72.439705"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;fill:#1b1a66;fill-opacity:1"
+         id="tspan10988">only one slide to show my teacher. How do I do?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.3085804px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-305.41476"
+       y="113.01909"
+       id="text3342"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3344"
+         x="-305.41476"
+         y="113.01909"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#15287c;fill-opacity:1"
+   id="tspan3405">class</tspan> YourGAClass(<tspan
+   style="font-style:italic"
+   id="tspan4415">&lt;your parameters&gt;</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="142.30049"
+         id="tspan3346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#15287c;fill-opacity:1"
+   id="tspan3407">extends</tspan> YourClass(<tspan
+   style="font-style:italic"
+   id="tspan4413">&lt;your parameters&gt;</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="171.58189"
+         id="tspan3350"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#15287c;fill-opacity:1"
+   id="tspan3409">with</tspan> Individual[<tspan
+   style="font-style:italic"
+   id="tspan4411">List[YourType]</tspan>]</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="200.8633"
+         id="tspan4723"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-weight:bold;fill:#15287c;fill-opacity:1;-inkscape-font-specification:Courier;font-family:Courier;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4374">with</tspan> OnePoint[<tspan
+   style="font-style:italic"
+   id="tspan4409">YourType</tspan>],</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="230.1447"
+         id="tspan4725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-weight:bold;fill:#15287c;fill-opacity:1;-inkscape-font-specification:Courier;font-family:Courier;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4378">with</tspan> Swap[<tspan
+   style="font-style:italic"
+   id="tspan4407">YourType</tspan>] {</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="259.42612"
+         id="tspan3352"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#7c1578;fill-opacity:1"
+   id="tspan3411">  override val</tspan> evaluator = <tspan
+   style="font-style:italic"
+   id="tspan4417">&lt;your function&gt;</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="288.70752"
+         id="tspan3362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier" /><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="317.98892"
+         id="tspan3364"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#7c1578;fill-opacity:1"
+   id="tspan3413">  def</tspan> construct(genes: <tspan
+   style="font-style:italic"
+   id="tspan4405">List[YourType]</tspan>) =</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="347.27032"
+         id="tspan3366"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#7c1578;fill-opacity:1"
+   id="tspan3415">    new</tspan> YourGAClass(genes, <tspan
+   style="font-style:italic"
+   id="tspan4403">&lt;your parameters&gt;</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="376.40604"
+         id="tspan3368"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier">}</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="405.54178"
+         id="tspan7322"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier" /><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="434.67749"
+         id="tspan7296"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier">[...]</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="463.81323"
+         id="tspan7330"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier" /><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="493.09464"
+         id="tspan7298"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#7c1578;fill-opacity:1"
+   id="tspan7306">val</tspan> individuals = <tspan
+   style="font-style:italic"
+   id="tspan4401">&lt;...&gt;</tspan> :List[YourGAClass]</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="522.37604"
+         id="tspan7300"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#7c1578;fill-opacity:1"
+   id="tspan7308">val</tspan> population  = <tspan
+   style="font-weight:bold;fill:#7c1578;fill-opacity:1;-inkscape-font-specification:Courier;font-family:Courier;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan7366">new</tspan> Population(individuals)</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="551.65741"
+         id="tspan7302"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#7c1578;fill-opacity:1"
+   id="tspan7310">val</tspan> solver      = <tspan
+   style="font-weight:bold;fill:#7c1578;fill-opacity:1;-inkscape-font-specification:Courier;font-family:Courier;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan7368">new</tspan> Solver(population)</tspan><tspan
+         sodipodi:role="line"
+         x="-305.41476"
+         y="580.93884"
+         id="tspan7304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#7c1578;fill-opacity:1"
+   id="tspan7312">val</tspan> solution    = solver.solve: YourGAClass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.3085804px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="366.19394"
+       y="146.86386"
+       id="text4318"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4320"
+         x="366.19394"
+         y="146.86386"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic'">extend your class...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.3085804px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="363.69662"
+       y="189.31876"
+       id="text4322"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4324"
+         x="363.69662"
+         y="189.31876"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic'">...with as many SGAP</tspan><tspan
+         sodipodi:role="line"
+         x="363.69662"
+         y="218.45448"
+         id="tspan4326"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic'">traits as you need...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.3085804px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="361.19928"
+       y="275.06107"
+       id="text4328"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="361.19928"
+         y="275.06107"
+         id="tspan4332"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic'">...and define these</tspan><tspan
+         sodipodi:role="line"
+         x="361.19928"
+         y="304.19678"
+         id="tspan4702"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic'">two methods.</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#4415a3;stroke-width:2.03950071;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4642)"
+       d="m 201.369,119.39303 154.83556,18.31388"
+       id="path4334"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#4415a3;stroke-width:2.03950071;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotM)"
+       d="m 143.09755,164.34529 213.10702,19.97878"
+       id="path4336"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#4415a3;stroke-width:2.03950071;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4620);marker-end:url(#marker4620)"
+       d="m -1.7486197,266.73655 352.1260397,8.3245 -463.67425,24.97348"
+       id="path4338"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#4415a3;stroke-width:2.03950071;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotM-9)"
+       d="m 35.498613,195.27225 308.838687,1.6649"
+       id="path4336-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#4415a3;stroke-width:2.03950071;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotM-99)"
+       d="M 2.2006462,223.57552 353.49425,209.42388"
+       id="path4336-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-228.57143"
+       y="715.21936"
+       id="text7324"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7326"
+         x="-228.57143"
+         y="715.21936" /><tspan
+         sodipodi:role="line"
+         x="-228.57143"
+         y="765.21936"
+         id="tspan7328" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.3085804px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="363.69662"
+       y="423.23703"
+       id="text11011"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11013"
+         x="363.69662"
+         y="423.23703"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic'">Generate a list of YourGAClass</tspan><tspan
+         sodipodi:role="line"
+         x="363.69662"
+         y="452.37274"
+         id="tspan11017"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic'">objects (at least one)...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.3085804px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="362.86417"
+       y="521.46606"
+       id="text11021"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11023"
+         x="362.86417"
+         y="521.46606"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic'">...and let SGAP take</tspan><tspan
+         sodipodi:role="line"
+         x="362.86417"
+         y="550.60181"
+         id="tspan11025"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic'">care of the rest!</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#4415a3;stroke-width:2.03950071;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4642-9)"
+       d="M -7.7979595,473.31205 350.9877,433.35449"
+       id="path4334-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#4415a3;stroke-width:2.03950071;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4642-94)"
+       d="m 265.2454,545.73515 92.40187,-15.81654"
+       id="path4334-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13320"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-317.16893,-0.51435984)"><flowRegion
+         id="flowRegion13322"><rect
+           id="rect13324"
+           width="454.56863"
+           height="84.852814"
+           x="1167.7363"
+           y="284.02188" /></flowRegion><flowPara
+         id="flowPara13326" /></flowRoot>  </g>
+</svg>

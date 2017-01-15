@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="461.48642mm"
+   height="208.81425mm"
+   viewBox="0 0 1635.1881 739.89302"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="real-code-greedy.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4529"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4531"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#070077;fill-opacity:1;fill-rule:evenodd;stroke:#070077;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4323"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#070077;fill-opacity:1;fill-rule:evenodd;stroke:#070077;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="893.268"
+     inkscape:cy="366.25194"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="-6"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     fit-margin-left="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(288.65045,-62.548243)">
+    <rect
+       style="fill:#dfeeef;fill-opacity:1;stroke:#300f73;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4250"
+       width="1282.8569"
+       height="622.85718"
+       x="-282.85715"
+       y="173.79077"
+       ry="11.184" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="497.33725"
+       y="93.811546"
+       id="text4136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="497.33725"
+         y="93.811546"
+         id="tspan4140"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;fill:#0e0068;fill-opacity:1">Same problem as before, but I</tspan><tspan
+         sodipodi:role="line"
+         x="497.33725"
+         y="143.81155"
+         id="tspan4144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;fill:#0e0068;fill-opacity:1">need a Greedy/GRASP this time...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-266.6055"
+       y="224.03712"
+       id="text4146"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="224.03712"
+         id="tspan4184"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#a8258f;fill-opacity:1"
+   id="tspan4232">val</tspan> candidates = <tspan
+   style="font-style:italic"
+   id="tspan4252">&lt;set of elements&gt;</tspan>: List[SomeType]</tspan><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="274.03711"
+         id="tspan4192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#a8258f;fill-opacity:1"
+   id="tspan4230">val</tspan> isFeasible = (solution: List[SomeType]) =&gt; Bool</tspan><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="324.03711"
+         id="tspan4162"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="374.03711"
+         id="tspan4164"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#41a012;fill-opacity:1">// Looking for a &quot;stateless&quot; greedy?</tspan><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="424.03711"
+         id="tspan4150"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#a8258f;fill-opacity:1"
+   id="tspan4234">val</tspan> naiveSelect = (candidates) =&gt; SomeType  </tspan><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="474.03711"
+         id="tspan4194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#a8258f;fill-opacity:1"
+   id="tspan4236">val</tspan> solution =</tspan><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="524.03711"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
+         id="tspan4198">  solve(candidates, naiveSelect, isFeasible)</tspan><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="574.03711"
+         id="tspan4166"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="624.03711"
+         id="tspan4168"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#41a012;fill-opacity:1">// ...or for a &quot;statefull&quot; one?</tspan><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="674.03711"
+         id="tspan4170"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#a8258f;fill-opacity:1"
+   id="tspan4206">val</tspan> awareSelect = (solution, candidates) =&gt; SomeType</tspan><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="724.03711"
+         id="tspan4196"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#a8258f;fill-opacity:1"
+   id="tspan4228">val</tspan> solution =</tspan><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="774.03711"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"
+         id="tspan4200">  solve(candidates, awareSelect, isFeasible)</tspan><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="824.03711"
+         id="tspan4172"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="874.03711"
+         id="tspan4174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="924.03711"
+         id="tspan4180"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="974.03711"
+         id="tspan4182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="1024.0371"
+         id="tspan4176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="-266.6055"
+         y="1074.0371"
+         id="tspan4178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1065.7144"
+       y="523.79083"
+       id="text4254"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4256"
+         x="1065.7144"
+         y="523.79083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'">will work with</tspan><tspan
+         sodipodi:role="line"
+         x="1065.7144"
+         y="573.79083"
+         id="tspan4258"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan4249">either</tspan> one...</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#070077;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotM);marker-end:url(#marker4529)"
+       d="M 788.57143,459.50506 1060,538.07649 667.14286,619.50506"
+       id="path4253"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

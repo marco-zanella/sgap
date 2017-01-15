@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="682.10486"
+   height="767.74127"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="uml.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4354"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path4357"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,-1.8,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="CurveIn"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="CurveIn"
+       style="overflow:visible">
+      <path
+         id="path4378"
+         d="m 4.625493,-5.0456926 c -2.76,0 -5.00000002,2.24 -5.00000002,5.00000002 0,2.75999998 2.24000002,4.99999998 5.00000002,4.99999998"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondMstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondMstart"
+       style="overflow:visible">
+      <path
+         id="path4285"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 0,-7.0710768 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.6,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondL"
+       style="overflow:visible">
+      <path
+         id="path4273"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 0,-7.0710768 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondMstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondMstart-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4285-4"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 0,-7.0710768 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondMstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondMstart-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4285-2"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 0,-7.0710768 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4354-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4354-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL-78"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4354-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4354-2"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="549.41417"
+     inkscape:cy="415.7797"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     fit-margin-top="0.5"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(17.107143,-45.076469)">
+    <rect
+       style="fill:#d3e5e6;fill-opacity:1;stroke:#0027a7;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="225.00002"
+       height="147.85718"
+       x="21.428572"
+       y="48.076469"
+       ry="19.192898" />
+    <rect
+       style="fill:#d3e5e6;fill-opacity:1;stroke:#0027a7;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2987"
+       width="280.71426"
+       height="158.57144"
+       x="-6.4285674"
+       y="245.21933"
+       ry="19.192898" />
+    <rect
+       style="fill:#d3e5e6;fill-opacity:1;stroke:#0027a7;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2989"
+       width="299.28574"
+       height="148.5714"
+       x="-13.571438"
+       y="450.93362"
+       ry="19.192898" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001456;fill-opacity:1;stroke:none;font-family:Sans"
+       x="57.85714"
+       y="78.790749"
+       id="text3759"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761"
+         x="57.85714"
+         y="78.790749"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:TeX Gyre Cursor;-inkscape-font-specification:TeX Gyre Cursor Bold">Solver</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001456;fill-opacity:1;stroke:none;font-family:Sans"
+       x="28.571428"
+       y="115.21931"
+       id="text3763"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3765"
+         x="28.571428"
+         y="115.21931"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System">-initial popuation</tspan><tspan
+         sodipodi:role="line"
+         x="28.571428"
+         y="145.2193"
+         id="tspan3767"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System">-some configuration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001456;fill-opacity:1;stroke:none;font-family:Sans"
+       x="28.571428"
+       y="183.07646"
+       id="text3769"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3771"
+         x="28.571428"
+         y="183.07646"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System">+solve</tspan></text>
+    <path
+       style="fill:none;stroke:#0027a7;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 21.428571,88.790753 223.571429,0"
+       id="path3775"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0027a7;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 20.357141,158.07647 223.571429,0"
+       id="path3775-3"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001456;fill-opacity:1;stroke:none;font-family:Sans"
+       x="14.521933"
+       y="278.09363"
+       id="text3759-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761-1"
+         x="14.521933"
+         y="278.09363"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:TeX Gyre Cursor;-inkscape-font-specification:TeX Gyre Cursor Bold">Population</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001456;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3.5714324"
+       y="320.6398"
+       id="text3763-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="3.5714324"
+         y="320.6398"
+         id="tspan3767-5"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System">-individuals</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001456;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3.5714324"
+       y="358.69199"
+       id="text3769-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3771-6"
+         x="3.5714324"
+         y="358.69199"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System">+select</tspan><tspan
+         sodipodi:role="line"
+         x="3.5714324"
+         y="388.69199"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System"
+         id="tspan3865">+next generation</tspan></text>
+    <path
+       style="fill:none;stroke:#0027a7;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -7.8571446,293.07647 282.1428646,0"
+       id="path3775-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0027a7;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -7.4999946,332.36217 280.7142946,0"
+       id="path3775-30"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001456;fill-opacity:1;stroke:none;font-family:Sans"
+       x="19.676029"
+       y="483.20502"
+       id="text3759-4-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761-1-2"
+         x="19.676029"
+         y="483.20502"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:TeX Gyre Cursor;-inkscape-font-specification:TeX Gyre Cursor Bold">Individual</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001456;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-7.8038597"
+       y="518.69196"
+       id="text3763-1-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-7.8038597"
+         y="518.69196"
+         id="tspan3767-5-0"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System">-genes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#001456;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-7.651516"
+       y="557.78265"
+       id="text3769-3-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-7.651516"
+         y="557.78265"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System"
+         id="tspan3865-0">+crossover(that: Individual)</tspan><tspan
+         sodipodi:role="line"
+         x="-7.651516"
+         y="587.78265"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#001456;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System"
+         id="tspan3960">+mutation</tspan></text>
+    <path
+       style="fill:none;stroke:#0027a7;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -13.214283,494.50504 297.857153,0"
+       id="path3775-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0027a7;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -15.357143,531.6479 299.285723,0"
+       id="path3775-1-62"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#d8e6d3;fill-opacity:1;stroke:#2ba700;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2987-9"
+       width="427.14279"
+       height="82.857162"
+       x="67.679016"
+       y="726.96057"
+       ry="19.192898" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#165600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="76.99791"
+       y="759.94629"
+       id="text3759-4-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761-1-7"
+         x="76.99791"
+         y="759.94629"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#165600;fill-opacity:1;font-family:TeX Gyre Cursor;-inkscape-font-specification:TeX Gyre Cursor Bold">OnePointCrossover</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#165600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="76.548157"
+       y="794.71899"
+       id="text3769-3-0-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="76.548157"
+         y="794.71899"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#165600;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System"
+         id="tspan3960-6">+crossover(that: Individual)</tspan></text>
+    <path
+       style="fill:none;stroke:#2ba700;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 67.679033,769.81771 425.714287,0"
+       id="path3775-30-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#d8e6d3;fill-opacity:1;stroke:#2ba700;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2987-9-2"
+       width="427.14279"
+       height="82.857162"
+       x="234.85495"
+       y="619.47321"
+       ry="19.192898" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#165600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="244.17386"
+       y="652.45892"
+       id="text3759-4-3-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761-1-7-8"
+         x="244.17386"
+         y="652.45892"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#165600;fill-opacity:1;font-family:TeX Gyre Cursor;-inkscape-font-specification:TeX Gyre Cursor Bold">TwoPointCrossover</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#165600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="243.72409"
+       y="687.23157"
+       id="text3769-3-0-4-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="243.72409"
+         y="687.23157"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#165600;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System"
+         id="tspan3960-6-6">+crossover(that: Individual)</tspan></text>
+    <path
+       style="fill:none;stroke:#2ba700;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 234.85496,662.33033 425.71428,0"
+       id="path3775-30-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#d8e6d3;fill-opacity:1;stroke:#2ba700;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2987-9-2-8"
+       width="184.28568"
+       height="82.857178"
+       x="406.5983"
+       y="396.05466"
+       ry="19.192898" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#165600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="415.91721"
+       y="429.04037"
+       id="text3759-4-3-2-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761-1-7-8-7"
+         x="415.91721"
+         y="429.04037"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#165600;fill-opacity:1;font-family:TeX Gyre Cursor;-inkscape-font-specification:TeX Gyre Cursor Bold">FlipAll</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#165600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="415.46744"
+       y="463.81308"
+       id="text3769-3-0-4-5-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="415.46744"
+         y="463.81308"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#165600;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System"
+         id="tspan3960-6-6-7">+mutation</tspan></text>
+    <path
+       style="fill:none;stroke:#2ba700;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 406.59831,438.91178 182.14285,0"
+       id="path3775-30-5-0-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#d8e6d3;fill-opacity:1;stroke:#2ba700;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2987-9-2-8-8"
+       width="184.28568"
+       height="82.857178"
+       x="402.98691"
+       y="509.78348"
+       ry="19.192898" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#165600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="446.59149"
+       y="542.76923"
+       id="text3759-4-3-2-9-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761-1-7-8-7-1"
+         x="446.59149"
+         y="542.76923"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#165600;fill-opacity:1;font-family:TeX Gyre Cursor;-inkscape-font-specification:TeX Gyre Cursor Bold">Swap</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#165600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="411.85605"
+       y="577.54193"
+       id="text3769-3-0-4-5-3-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="411.85605"
+         y="577.54193"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#165600;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System"
+         id="tspan3960-6-6-7-2">+mutation</tspan></text>
+    <path
+       style="fill:none;stroke:#2ba700;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 402.98692,552.64062 182.14285,0"
+       id="path3775-30-5-0-0-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DiamondMstart)"
+       d="m 133.34014,245.2503 0,-22.22336"
+       id="path4188"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DiamondMstart)"
+       d="m 131.31985,449.84088 0,-22.22336"
+       id="path4188-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#EmptyTriangleOutL)"
+       d="m 322.23868,367.00837 -48.48732,80.81219"
+       id="path4188-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#d8e6d3;fill-opacity:1;stroke:#2ba700;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2987-9-2-8-88"
+       width="301.46338"
+       height="108.11099"
+       x="312.92831"
+       y="262.41061"
+       ry="19.192898" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#165600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="354.57211"
+       y="295.39633"
+       id="text3759-4-3-2-9-73"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761-1-7-8-7-2"
+         x="354.57211"
+         y="295.39633"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#165600;fill-opacity:1;font-family:TeX Gyre Cursor;-inkscape-font-specification:TeX Gyre Cursor Bold">YourTrait</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#165600;fill-opacity:1;stroke:none;font-family:Sans"
+       x="321.79752"
+       y="330.16904"
+       id="text3769-3-0-4-5-3-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="321.79752"
+         y="330.16904"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#165600;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System"
+         id="tspan3960-6-6-7-8">+crossover(that: Individual)</tspan><tspan
+         sodipodi:role="line"
+         x="321.79752"
+         y="360.16904"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#165600;fill-opacity:1;font-family:Khmer OS System;-inkscape-font-specification:Khmer OS System"
+         id="tspan5863">+mutation</tspan></text>
+    <path
+       style="fill:none;stroke:#2ba700;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 312.92833,305.2677 299.32056,0"
+       id="path3775-30-5-0-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#EmptyTriangleOutL)"
+       d="M 407.09148,439.19959 288.90363,484.65645"
+       id="path4188-5-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#EmptyTriangleOutL)"
+       d="M 402.04071,550.31637 286.88332,543.24529"
+       id="path4188-5-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#EmptyTriangleOutL)"
+       d="M 383.85796,617.99659 288.90362,575.57018"
+       id="path4188-5-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#EmptyTriangleOutL)"
+       d="M 219.2031,727.09307 174.75639,601.83414"
+       id="path4188-5-7-33"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

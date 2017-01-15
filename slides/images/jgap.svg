@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="652.39441mm"
+   height="351.61282mm"
+   viewBox="0 0 2311.6337 1245.8722"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="jgap.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4916"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#d60017;fill-opacity:1;fill-rule:evenodd;stroke:#d60017;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4918"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4864"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#00911c;fill-opacity:1;fill-rule:evenodd;stroke:#00911c;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4866"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4818"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4820"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#d60017;fill-opacity:1;fill-rule:evenodd;stroke:#d60017;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4760"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#d60017;fill-opacity:1;fill-rule:evenodd;stroke:#d60017;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4762"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4732"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#00911c;fill-opacity:1;fill-rule:evenodd;stroke:#00911c;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4734"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4710"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#d60017;fill-opacity:1;fill-rule:evenodd;stroke:#d60017;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4712"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4498"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#d60017;fill-opacity:1;fill-rule:evenodd;stroke:#d60017;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1363.0059"
+     inkscape:cy="434.36467"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="-6"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     fit-margin-left="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1411.5075,164.85967)">
+    <rect
+       style="fill:#ecf4f4;fill-opacity:1;stroke:#300684;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4334"
+       width="1714.2858"
+       height="1234.2856"
+       x="-1405.7142"
+       y="-159.06636"
+       ry="11.184" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1371.4286"
+       y="-104.78067"
+       id="text4136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="-104.78067"
+         id="tspan4140"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#01025e;fill-opacity:1"
+   id="tspan4212">public class</tspan> YourFitnessFunction <tspan
+   style="font-weight:bold;fill:#01025e;fill-opacity:1"
+   id="tspan4293">extends</tspan> FitnessFunction {</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="-54.78067"
+         id="tspan4142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#01025e;fill-opacity:1"
+   id="tspan4224">    public</tspan> YourFitnessFunction( <tspan
+   style="font-weight:bold;fill:#01025e;fill-opacity:1"
+   id="tspan4320">int</tspan> a_targetAmount ) {</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="-4.7806702"
+         id="tspan4144"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">        ...</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="45.21933"
+         id="tspan4146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">    }</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="95.21933"
+         id="tspan4148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="145.21933"
+         id="tspan4150"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#01025e;fill-opacity:1"
+   id="tspan4226">    public double</tspan> evaluate( IChromosome a_subject ) {</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="195.21933"
+         id="tspan4152"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">        ...</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="245.21933"
+         id="tspan4154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">    }</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="295.21933"
+         id="tspan4156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">}</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="345.21933"
+         id="tspan4158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="395.21933"
+         id="tspan4164"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#01025e;fill-opacity:1"
+   id="tspan4230">public static void</tspan> main(String[] args) {</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="445.21933"
+         id="tspan4166"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">    FitnessFunction yourFunc = <tspan
+   style="font-weight:bold;fill:#5b015e;fill-opacity:1"
+   id="tspan4236">new</tspan> YourFitnessFunction(targetAmount);</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="495.21933"
+         id="tspan4168"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">    </tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="545.21936"
+         id="tspan4170"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">    Configuration conf = <tspan
+   style="font-weight:bold;fill:#5b015e;fill-opacity:1"
+   id="tspan4250">new</tspan> DefaultConfiguration();</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="595.21936"
+         id="tspan4172"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">    conf.setFitnessFunction(myFunc);</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="645.21936"
+         id="tspan4174"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">    Chromosome sampleChromosome = <tspan
+   style="font-weight:bold;fill:#5b015e;fill-opacity:1"
+   id="tspan4252">new</tspan> Chromosome(conf, sampleGenes);</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="695.21936"
+         id="tspan4176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">    conf.setSampleChromosome(sampleChromosome);</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="745.21936"
+         id="tspan4178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">    conf.setPopulationSize(500);</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="795.21936"
+         id="tspan4180"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="845.21936"
+         id="tspan4182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace"><tspan
+   style="font-weight:bold;fill:#5b015e;fill-opacity:1"
+   id="tspan4254">    for</tspan> (<tspan
+   style="font-weight:bold;fill:#01025e;fill-opacity:1"
+   id="tspan4324">int</tspan> i = 0; i &lt; MAX_ALLOWED_EVOLUTIONS; i++){</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="895.21936"
+         id="tspan4184"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">        population.evolve();</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="945.21936"
+         id="tspan4190"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">        best = population.getFittestChromosome();</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="995.21936"
+         id="tspan4192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">    }</tspan><tspan
+         sodipodi:role="line"
+         x="-1371.4286"
+         y="1045.2194"
+         id="tspan4194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="587.05359"
+       y="186.6479"
+       id="text4336"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4338"
+         x="587.05359"
+         y="186.6479"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle">Functions as objects:</tspan><tspan
+         sodipodi:role="line"
+         x="587.05359"
+         y="236.6479"
+         id="tspan4340"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle">need to be instantiated!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="639.42285"
+       y="-10.44637"
+       id="text4336-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="639.42285"
+         y="-10.44637"
+         id="tspan4340-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle">Must specify evaluator and</tspan><tspan
+         sodipodi:role="line"
+         x="639.42285"
+         y="39.553631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle"
+         id="tspan4365">constructor (like sgap)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="613.70856"
+       y="703.83936"
+       id="text4336-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="613.70856"
+         y="703.83936"
+         id="tspan4340-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle">Everything is mutable</tspan><tspan
+         sodipodi:role="line"
+         x="613.70856"
+         y="753.83936"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle"
+         id="tspan4395">(even configuration!)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#00911c;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4732);marker-end:url(#marker4864)"
+       d="M -48.571429,-67.637795 382.85715,3.7907761 -57.142857,140.93363"
+       id="path4397"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d60017;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4710);marker-end:url(#marker4818)"
+       d="m 48.571429,-121.92351 317.142861,320 -514.28572,200"
+       id="path4399"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d60017;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotM);marker-end:url(#marker4916)"
+       d="m 300,578.07649 91.42858,128.57143 -528.57144,-31.42857"
+       id="path4401"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="555.76575"
+       y="938.30499"
+       id="text4336-4-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="555.76575"
+         y="938.30499"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle"
+         id="tspan4395-1">Probably written by a C</tspan><tspan
+         sodipodi:role="line"
+         x="555.76575"
+         y="988.30499"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle"
+         id="tspan4426">programmer</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d60017;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4760)"
+       d="m -145.71429,886.64792 491.42858,79.99999"
+       id="path4428"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

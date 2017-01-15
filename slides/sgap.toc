@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Scala}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Scenarios}{5}{0}{1}
+\beamer@sectionintoc {2}{Core concepts}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Why Scala?}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Test cases}{9}{0}{2}
+\beamer@sectionintoc {3}{Code implementation}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Strategies}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Result analysis}{14}{0}{3}
+\beamer@sectionintoc {4}{Similar works}{15}{0}{4}
+\beamer@subsectionintoc {4}{1}{JGAP}{16}{0}{4}
+\beamer@subsectionintoc {4}{2}{Scala for Machine Learning}{17}{0}{4}
